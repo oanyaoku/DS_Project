@@ -17,4 +17,10 @@ It includes loan data for almost 900 thousand loans made from 2007 to 2015 and c
 Lending and Debt are fundamental in human society. I'm very interested in gaining an understanding 
 of what factors make for a successful loan 
 
+---
+
++ the chosen model should objectively evaluate the data
++  will need to create a predictor variable that combines features as late (1) or current (0)
++  Some features/columns will need to be dropped
+
 
